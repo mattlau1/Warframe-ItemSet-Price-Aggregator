@@ -40,13 +40,13 @@ python3 -m venv .venv
 source .venv/bin/activate
 ```
 
-** Windows (Command Prompt):**
+**Windows (Command Prompt):**
 ```bash
 python -m venv .venv
 .venv\Scripts\activate
 ```
 
-** Windows (PowerShell):**
+**Windows (PowerShell):**
 ```bash
 python3 -m venv .venv
 .\venv\Scripts\Activate.ps1
