@@ -4,10 +4,10 @@ A Python script that pulls average buy-order prices for all tradeable item sets 
 
 This is helpful for finding rare items to potentially sell or to find rare relics in your inventory.
 
+## Output
+The program will spit out a file in the same directory called `out.txt` after it finishes running.
 
-## Sample Output
-The output is sorted by price (highest to lowest). Example:
-
+Sample Output:
 ```text
 Braton Vandal Set: 226.4p
 Lato Vandal Set: 195.2p
