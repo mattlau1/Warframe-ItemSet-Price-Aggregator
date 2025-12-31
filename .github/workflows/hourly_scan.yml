@@ -1,0 +1,36 @@
+name: Hourly Price Aggregator
+
+on:
+  schedule:
+    # This runs at the start of every hour
+    - cron: '0 * * * *'
+  workflow_dispatch: # Allows you to run it manually for testing
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-numeric: '3.10'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+
+    - name: Run price aggregator
+      run: python main.py
+
+    - name: Commit and push results
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git add out.txt
+        git commit -m "Automated Price Update: $(date)" || echo "No changes to commit"
+        git push
