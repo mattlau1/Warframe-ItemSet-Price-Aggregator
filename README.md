@@ -62,59 +62,59 @@ As of late 2025, the script analyses approximately 240+ tradeable item sets.
 
 ## 📈 Live Market Prices
 [//]: # (PRICE_START)
-**Last Updated:** 2025-12-31 12:19 UTC
+**Last Updated:** 2025-12-31 13:26 UTC
 
 ```text
 Braton Vandal Set: 251p
 Lato Vandal Set: 250p
 Akstiletto Prime Set: 120p
-Vauban Prime Set: 111p
+Vauban Prime Set: 117p
+Dual Kamas Prime Set: 100p
 Nami Skyla Prime Set: 100p
-Hespar Set: 100p
-Dual Kamas Prime Set: 95p
-Arum Spinosa Set: 92p
-Sporothrix Set: 83p
-Spira Prime Set: 80p
+Spira Prime Set: 90p
+Hespar Set: 90p
+Valkyr Prime Set: 80p
+Arum Spinosa Set: 80p
+Sporothrix Set: 80p
 Akjagara Prime Set: 80p
-Valkyr Prime Set: 77p
-Carrier Prime Set: 75p
+Vectis Prime Set: 75p
+Limbo Prime Set: 75p
 Kronen Prime Set: 75p
-Nyx Prime Set: 72p
 Hydroid Prime Set: 70p
-Vectis Prime Set: 70p
+Carrier Prime Set: 70p
 Aksomati Prime Set: 70p
-Mirage Prime Set: 70p
-Nekros Prime Set: 69p
-Akbolto Prime Set: 67p
-Limbo Prime Set: 66p
+Akbolto Prime Set: 70p
+Nyx Prime Set: 70p
+Nekros Prime Set: 70p
+Saryn Prime Set: 66p
+Frost Prime Set: 65p
 Wukong Prime Set: 65p
 Dethcube Prime Set: 65p
-Afuris Prime Set: 65p
-Frost Prime Set: 62p
-Nikana Prime Set: 62p
-Atlas Prime Set: 62p
-Loki Prime Set: 62p
-Saryn Prime Set: 61p
+Titania Prime Set: 65p
+Loki Prime Set: 65p
+Garuda Prime Set: 65p
+Bo Prime Set: 61p
 Ballistica Prime Set: 61p
-Titania Prime Set: 61p
-Xiphos Set: 61p
-Bo Prime Set: 60p
+Nikana Prime Set: 61p
+Corinth Prime Set: 61p
+Khora Prime Set: 61p
+Afuris Prime Set: 61p
 Kogake Prime Set: 60p
+Venka Prime Set: 60p
 Wyrm Prime Set: 60p
-Tekko Prime Set: 60p
+Xiphos Set: 60p
 Nova Prime Set: 60p
-Garuda Prime Set: 60p
-Gyre Prime Set: 60p
-Nidus Prime Set: 57p
-Morgha Set: 56p
-Rhino Prime Set: 55p
+Mirage Prime Set: 60p
+Scourge Prime Set: 60p
+Rhino Prime Set: 58p
+Nidus Prime Set: 58p
+Latron Prime Set: 55p
+Oberon Prime Set: 55p
 Boar Prime Set: 55p
-Venka Prime Set: 55p
 Baza Prime Set: 55p
-Cortege Set: 55p
-Corinth Prime Set: 55p
-Khora Prime Set: 55p
-Glaive Prime Set: 52p
+Chroma Prime Set: 55p
+Gyre Prime Set: 55p
+Gara Prime Set: 54p
 ... (see out.txt for full list)
 ```
 [//]: # (PRICE_END)
