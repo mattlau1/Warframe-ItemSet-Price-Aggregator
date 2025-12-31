@@ -2,13 +2,15 @@ name: Hourly Price Aggregator
 
 on:
   schedule:
-    # This runs at the start of every hour
+    # Runs at the start of every hour
     - cron: '0 * * * *'
-  workflow_dispatch: # Allows you to run it manually for testing
+  workflow_dispatch: # Allows you to trigger it manually for testing
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
     - name: Checkout code
@@ -17,7 +19,7 @@ jobs:
     - name: Set up Python
       uses: actions/setup-python@v5
       with:
-        python-numeric: '3.10'
+        python-version: '3.10'
 
     - name: Install dependencies
       run: |
@@ -27,10 +29,47 @@ jobs:
     - name: Run price aggregator
       run: python main.py
 
-    - name: Commit and push results
+    - name: Inject prices into README
       run: |
-        git config --global user.name "github-actions[bot]"
-        git config --global user.email "github-actions[bot]@users.noreply.github.com"
-        git add out.txt
-        git commit -m "Automated Price Update: $(date)" || echo "No changes to commit"
+        python3 -c "
+        import re, os, datetime
+
+        start_m = '[//]: # (PRICE_START)'
+        end_m = '[//]: # (PRICE_END)'
+
+        if not os.path.exists('out.txt'):
+            print('out.txt not found, skipping README update')
+            exit(0)
+
+        with open('out.txt', 'r') as f:
+            all_lines = f.readlines()
+
+        trimmed_prices = ''.join(all_lines[:50]).strip()
+        if len(all_lines) > 50:
+            trimmed_prices += '\n... (see out.txt for full list)'
+
+        now = datetime.datetime.now().strftime('%Y-%m-%d %H:%M UTC')
+
+        with open('README.md', 'r') as f:
+            content = f.read()
+
+        if start_m not in content or end_m not in content:
+            print('Error: Markers not found in README.md')
+            exit(1)
+
+        new_block = f'{start_m}\n**Last Updated:** {now}\n\n\`\`\`text\n{trimmed_prices}\n\`\`\`\n{end_m}'
+
+        pattern = re.escape(start_m) + r'.*?' + re.escape(end_m)
+        new_content = re.sub(pattern, new_block, content, flags=re.DOTALL)
+
+        with open('README.md', 'w') as f:
+            f.write(new_content)
+        "
+
+    - name: Commit and push changes
+      run: |
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+        git add README.md out.txt
+        git commit -m 'Automated Price Update' || echo 'No changes to commit'
         git push
