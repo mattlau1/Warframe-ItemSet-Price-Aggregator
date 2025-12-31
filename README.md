@@ -66,3 +66,7 @@ python main.py
 Note: Due to the scraping speed, a full scan of ~400+ total items takes approximately 1 minute.
 
 As of late 2025, the script analyses approximately 240+ tradeable item sets.
+
+## 📈 Live Market Prices
+[//]: # (PRICE_START)
+[//]: # (PRICE_END)
