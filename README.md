@@ -62,17 +62,17 @@ As of late 2025, the script analyses approximately 240+ tradeable item sets.
 
 ## 📈 Live Market Prices
 [//]: # (PRICE_START)
-**Last Updated:** 2025-12-31 14:11 UTC
+**Last Updated:** 2025-12-31 15:10 UTC
 
 ```text
+Braton Vandal Set: 251p
 Lato Vandal Set: 250p
-Braton Vandal Set: 243p
 Akstiletto Prime Set: 120p
 Vauban Prime Set: 120p
-Dual Kamas Prime Set: 110p
-Nami Skyla Prime Set: 96p
+Hespar Set: 105p
+Dual Kamas Prime Set: 100p
+Nami Skyla Prime Set: 95p
 Spira Prime Set: 90p
-Hespar Set: 90p
 Valkyr Prime Set: 80p
 Arum Spinosa Set: 80p
 Sporothrix Set: 80p
@@ -80,41 +80,41 @@ Akjagara Prime Set: 80p
 Vectis Prime Set: 75p
 Limbo Prime Set: 75p
 Kronen Prime Set: 75p
-Nekros Prime Set: 71p
+Aksomati Prime Set: 72p
+Nekros Prime Set: 72p
 Hydroid Prime Set: 70p
 Saryn Prime Set: 70p
 Carrier Prime Set: 70p
-Aksomati Prime Set: 70p
 Akbolto Prime Set: 70p
-Nova Prime Set: 70p
+Frost Prime Set: 65p
 Wukong Prime Set: 65p
-Ballistica Prime Set: 65p
 Dethcube Prime Set: 65p
+Titania Prime Set: 65p
+Tekko Prime Set: 65p
 Loki Prime Set: 65p
 Nyx Prime Set: 65p
-Garuda Prime Set: 65p
+Carmine Penta Set: 65p
 Khora Prime Set: 65p
-Afuris Prime Set: 65p
+Oberon Prime Set: 62p
 Nikana Prime Set: 62p
-Frost Prime Set: 61p
-Bo Prime Set: 61p
-Corinth Prime Set: 61p
-Kogake Prime Set: 60p
-Venka Prime Set: 60p
-Baza Prime Set: 60p
-Titania Prime Set: 60p
+Kogake Prime Set: 61p
+Ballistica Prime Set: 61p
+Afuris Prime Set: 61p
 Wyrm Prime Set: 60p
 Xiphos Set: 60p
-Atlas Prime Set: 60p
-Tekko Prime Set: 60p
 Chroma Prime Set: 60p
+Nova Prime Set: 60p
 Mirage Prime Set: 60p
-Scourge Prime Set: 60p
-Cinta Set: 60p
+Garuda Prime Set: 60p
 Nidus Prime Set: 58p
-Rhino Prime Set: 56p
 Gara Prime Set: 56p
-Sicarus Prime Set: 55p
+Rhino Prime Set: 55p
+Mag Prime Set: 55p
+Bo Prime Set: 55p
+Boar Prime Set: 55p
+Baza Prime Set: 55p
+Sybaris Prime Set: 55p
+Corinth Prime Set: 55p
 ... (see out.txt for full list)
 ```
 [//]: # (PRICE_END)
