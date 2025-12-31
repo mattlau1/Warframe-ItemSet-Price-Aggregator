@@ -46,7 +46,6 @@ python3 -m venv .venv
 ```
 
 ### 3. Install Dependencies
-This project uses a specific Git-based version of the Warframe Market API client.
 ```bash
 pip install -r requirements.txt
 ```
