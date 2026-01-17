@@ -1,198 +1,199 @@
 Lato Vandal Set: 325p
-Braton Vandal Set: 300p
+Braton Vandal Set: 288p
 Akstiletto Prime Set: 120p
 Vauban Prime Set: 116p
 Dual Kamas Prime Set: 115p
+Spira Prime Set: 105p
 Arum Spinosa Set: 100p
-Spira Prime Set: 91p
-Aksomati Prime Set: 86p
-Sporothrix Set: 85p
-Hespar Set: 81p
-Nami Skyla Prime Set: 80p
-Dethcube Prime Set: 75p
-Limbo Prime Set: 75p
-Akjagara Prime Set: 75p
+Hespar Set: 90p
+Aksomati Prime Set: 85p
+Akjagara Prime Set: 82p
+Dethcube Prime Set: 80p
+Limbo Prime Set: 80p
+Sporothrix Set: 80p
+Nyx Prime Set: 73p
+Afuris Prime Set: 73p
+Nami Skyla Prime Set: 71p
 Nekros Prime Set: 71p
 Hydroid Prime Set: 70p
-Saryn Prime Set: 70p
-Wukong Prime Set: 70p
+Boar Prime Set: 70p
 Venka Prime Set: 70p
 Carrier Prime Set: 70p
 Valkyr Prime Set: 70p
+Akbolto Prime Set: 70p
 Kronen Prime Set: 70p
-Tekko Prime Set: 70p
-Nyx Prime Set: 70p
+Mirage Prime Set: 70p
 Scourge Prime Set: 70p
-Afuris Prime Set: 70p
-Mirage Prime Set: 69p
-Rhino Prime Set: 67p
+Garuda Prime Set: 70p
+Titania Prime Set: 68p
+Wukong Prime Set: 67p
 Carmine Penta Set: 67p
-Garuda Prime Set: 66p
 Khora Prime Set: 66p
 Frost Prime Set: 65p
+Vectis Prime Set: 65p
 Oberon Prime Set: 65p
-Boar Prime Set: 65p
-Titania Prime Set: 65p
-Akbolto Prime Set: 65p
+Ballistica Prime Set: 65p
 Xiphos Set: 65p
 Atlas Prime Set: 65p
+Tekko Prime Set: 65p
 Chroma Prime Set: 65p
 Loki Prime Set: 65p
+Nova Prime Set: 65p
 Corinth Prime Set: 65p
 Nidus Prime Set: 65p
-Nikana Prime Set: 62p
-Ballistica Prime Set: 61p
-Nova Prime Set: 61p
+Saryn Prime Set: 64p
+Latron Prime Set: 60p
+Rhino Prime Set: 60p
 Bo Prime Set: 60p
 Kogake Prime Set: 60p
+Baza Prime Set: 60p
+Nikana Prime Set: 60p
 Bonewidow Set: 60p
 Gara Prime Set: 60p
-Harrow Prime Set: 57p
-Sybaris Prime Set: 56p
-Latron Prime Set: 55p
 Mag Prime Set: 55p
-Baza Prime Set: 55p
+Trinity Prime Set: 55p
+Latron Wraith Set: 55p
+Sybaris Prime Set: 55p
 Wyrm Prime Set: 55p
+Inaros Prime Set: 55p
 Banshee Prime Set: 55p
+Nezha Prime Set: 55p
 Nautilus Set: 55p
-Latron Wraith Set: 52p
-Inaros Prime Set: 52p
-Vectis Prime Set: 50p
-Ankyros Prime Set: 50p
-Trinity Prime Set: 50p
+Phantasma Prime Set: 55p
+Harrow Prime Set: 52p
+Ankyros Prime Set: 51p
 Tipedo Prime Set: 50p
-Nezha Prime Set: 50p
-Morgha Set: 50p
+Equinox Prime Set: 50p
 Aeolak Set: 50p
-Phantasma Prime Set: 50p
 Wisp Prime Set: 50p
+Boltor Prime Set: 46p
+Soma Prime Set: 46p
 Destreza Prime Set: 45p
+Helios Prime Set: 45p
 Twin Vipers Wraith Set: 45p
 Panthera Prime Set: 45p
-Cernos Prime Set: 45p
 Zephyr Prime Set: 45p
 Ivara Prime Set: 45p
-Equinox Prime Set: 45p
 Galatine Prime Set: 45p
 Tenora Prime Set: 45p
 Octavia Prime Set: 45p
 Dual Keres Prime Set: 45p
 Cinta Set: 45p
+Grendel Prime Set: 45p
 Mesa Prime Set: 44p
+Gyre Prime Set: 43p
 Ember Prime Set: 42p
-Cortege Set: 42p
-Revenant Prime Set: 42p
+Cernos Prime Set: 42p
 Akarius Prime Set: 42p
-Gyre Prime Set: 42p
-Helios Prime Set: 40p
+Karak Wraith Set: 41p
+Revenant Prime Set: 41p
 Sicarus Prime Set: 40p
 Strun Wraith Set: 40p
 Volt Prime Set: 40p
-Karak Wraith Set: 40p
+Glaive Prime Set: 40p
 Tiberon Prime Set: 40p
 Voidrig Set: 40p
-Soma Prime Set: 40p
+Pathocyst Set: 40p
 Ash Prime Set: 40p
 Prisma Shade Set: 40p
 Hildryn Prime Set: 40p
-Grendel Prime Set: 40p
-Boltor Prime Set: 36p
-Gauss Prime Set: 36p
+Baruuk Prime Set: 38p
+Cortege Set: 37p
+Akvasto Prime Set: 36p
 Silva & Aegis Prime Set: 35p
 Euphona Prime Set: 35p
-Glaive Prime Set: 35p
-Baruuk Prime Set: 35p
+Pyrana Prime Set: 35p
+Strun Prime Set: 35p
 Larkspur Prime Set: 35p
-Akmagnus Prime Set: 35p
+Gauss Prime Set: 35p
 Alternox Prime Set: 35p
-Nautilus Prime Set: 32p
+Ninkondi Prime Set: 33p
+Hikou Prime Set: 33p
+Akmagnus Prime Set: 32p
+Zhuge Prime Set: 31p
+Nautilus Prime Set: 31p
 Yareli Prime Set: 31p
-Caliban Prime Set: 31p
+Snipetron Vandal Set: 30p
 Redeemer Prime Set: 30p
-Pyrana Prime Set: 30p
+Tigris Prime Set: 30p
+Guandao Prime Set: 30p
+Athodai Set: 30p
+Astilla Prime Set: 30p
 Magnus Prime Set: 30p
 Corvas Prime Set: 30p
 Nagantaka Prime Set: 30p
 Steflos Set: 30p
 Corufell Set: 30p
+Caliban Prime Set: 30p
 Imperator Vandal Set: 28p
-Ninkondi Prime Set: 27p
-Guandao Prime Set: 27p
-Astilla Prime Set: 26p
-Strun Prime Set: 26p
-Snipetron Vandal Set: 25p
 Odonata Prime Set: 25p
-Akvasto Prime Set: 25p
-Tigris Prime Set: 25p
+Dera Vandal Set: 25p
 Fragor Prime Set: 25p
 Rubico Prime Set: 25p
 Ostron Armor Set: 25p
+Gunsen Prime Set: 25p
 Protea Prime Set: 25p
-Xaku Prime Set: 25p
 Dual Viciss Set: 25p
-Hikou Prime Set: 24p
 Sevagoth Prime Set: 23p
-Lavos Prime Set: 23p
-Wolf Sledge Set: 22p
+Xaku Prime Set: 23p
+Reaper Prime Set: 22p
 Ambassador Set: 22p
 Dual Zoren Prime Set: 22p
-Zhuge Prime Set: 21p
-Dera Vandal Set: 21p
 Cyngas Set: 21p
-Knell Prime Set: 21p
-Acceltra Prime Set: 21p
+Lavos Prime Set: 21p
+Kestrel Prime Set: 21p
+Wolf Sledge Set: 20p
 Stradavar Prime Set: 20p
 Aklex Prime Set: 20p
-Reaper Prime Set: 20p
 Shedu Set: 20p
 Scindo Prime Set: 20p
 Karyst Prime Set: 20p
 Phaedra Set: 20p
-Gram Prime Set: 20p
-Pathocyst Set: 20p
-Athodai Set: 20p
-Gunsen Prime Set: 20p
+Knell Prime Set: 20p
+Acceltra Prime Set: 20p
 Okina Prime Set: 20p
 Quassus Prime Set: 20p
-Kestrel Prime Set: 20p
-Shade Prime Set: 18p
+Fulmin Prime Set: 18p
+Kaszas Set: 17p
 Zakti Prime Set: 17p
-Fulmin Prime Set: 17p
-Trumna Prime Set: 17p
+Shade Prime Set: 17p
+Dakra Prime Set: 16p
 Sheev Set: 16p
 Spectra Vandal Set: 16p
 Hystrix Prime Set: 16p
-Cedo Prime Set: 16p
-Dakra Prime Set: 15p
 Corvas Set: 15p
 Rathbone Set: 15p
+Gram Prime Set: 15p
 Pandero Prime Set: 15p
-Volnus Prime Set: 15p
-Zylok Prime Set: 15p
+Trumna Prime Set: 15p
+Cedo Prime Set: 15p
 EFV-5 Jupiter Set: 15p
 Daikyu Prime Set: 15p
 Pangolin Prime Set: 14p
 Damaged Necramech Weapon Set: 14p
+Volnus Prime Set: 14p
 Cobra & Crane Prime Set: 14p
+Vasto Prime Set: 13p
 Kavasa Prime Kubrow Collar Set: 11p
-Tatsu Prime Set: 11p
 Kompressa Prime Set: 11p
-Vasto Prime Set: 10p
+Tatsu Prime Set: 10p
 Masseter Prime Set: 10p
+Zylok Prime Set: 10p
 Velox Prime Set: 10p
 Epitaph Prime Set: 10p
 Vadarya Prime Set: 10p
 Venato Prime Set: 10p
 Orthos Prime Set: 8p
+Gorgon Wraith Set: 8p
 Scimitar Set: 7p
 Stahlta Set: 7p
 Mantis Set: 6p
-Braton Prime Set: 6p
 Paris Prime Set: 6p
-Burston Prime Set: 5p
+Braton Prime Set: 5p
 Parallax Set: 5p
 Fang Prime Set: 4p
-Bronco Prime Set: 4p
+Burston Prime Set: 4p
+Bronco Prime Set: 3p
 Grineer Settlement Reactor Scene: 0p
 Lex Prime Set: 0p
 Motus Setup: 0p
@@ -207,14 +208,13 @@ Onorix Set: 0p
 Agkuza Set: 0p
 Stropha Set: 0p
 Velox Set: 0p
-Gorgon Wraith Set: 0p
 Broken War Set: 0p
-Kaszas Set: 0p
 Velocitus Set: 0p
 Fluctus Set: 0p
 Dual Decurion Set: 0p
 Damaged Necramech Set: 0p
 Cedo Set: 0p
+Morgha Set: 0p
 Epitaph Set: 0p
 Meridian Armor Set: 0p
 Perrin Armor Set: 0p
