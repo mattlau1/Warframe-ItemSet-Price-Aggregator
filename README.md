@@ -61,60 +61,60 @@ As of late 2025, the script analyses approximately 240+ tradeable item sets.
 
 ## 📈 Live Market Prices
 [//]: # (PRICE_START)
-**Last Updated:** 2026-01-30 13:46 UTC
+**Last Updated:** 2026-01-30 14:26 UTC
 
 | Item Set | Median Price |
 | :--- | :--- |
 | Lato Vandal Set | 280p |
-| Braton Vandal Set | 271p |
-| Vauban Prime Set | 130p |
-| Akstiletto Prime Set | 121p |
-| Dual Kamas Prime Set | 120p |
+| Braton Vandal Set | 280p |
+| Vauban Prime Set | 135p |
 | Hespar Set | 120p |
-| Arum Spinosa Set | 98p |
-| Sporothrix Set | 95p |
+| Akstiletto Prime Set | 109p |
+| Dual Kamas Prime Set | 106p |
+| Arum Spinosa Set | 96p |
+| Sporothrix Set | 90p |
 | Akbolto Prime Set | 80p |
 | Limbo Prime Set | 80p |
 | Spira Prime Set | 80p |
 | Akjagara Prime Set | 80p |
-| Nyx Prime Set | 77p |
 | Tekko Prime Set | 75p |
-| Afuris Prime Set | 75p |
+| Nyx Prime Set | 75p |
 | Kronen Prime Set | 72p |
 | Mirage Prime Set | 72p |
-| Aksomati Prime Set | 71p |
+| Afuris Prime Set | 72p |
 | Rhino Prime Set | 70p |
 | Wukong Prime Set | 70p |
+| Carrier Prime Set | 70p |
 | Dethcube Prime Set | 70p |
+| Aksomati Prime Set | 70p |
+| Titania Prime Set | 70p |
 | Nekros Prime Set | 67p |
 | Vectis Prime Set | 66p |
-| Titania Prime Set | 66p |
-| Corinth Prime Set | 66p |
-| Nidus Prime Set | 66p |
+| Hydroid Prime Set | 65p |
 | Boar Prime Set | 65p |
 | Chroma Prime Set | 65p |
 | Nova Prime Set | 65p |
-| Octavia Prime Set | 65p |
+| Gara Prime Set | 65p |
+| Nidus Prime Set | 65p |
 | Khora Prime Set | 65p |
 | Frost Prime Set | 64p |
-| Gara Prime Set | 62p |
+| Loki Prime Set | 62p |
+| Octavia Prime Set | 62p |
 | Oberon Prime Set | 61p |
 | Bo Prime Set | 61p |
-| Loki Prime Set | 61p |
-| Hydroid Prime Set | 60p |
 | Latron Prime Set | 60p |
 | Mag Prime Set | 60p |
-| Kogake Prime Set | 60p |
-| Carrier Prime Set | 60p |
+| Boltor Prime Set | 60p |
 | Valkyr Prime Set | 60p |
 | Xiphos Set | 60p |
+| Atlas Prime Set | 60p |
+| Cortege Set | 60p |
 | Banshee Prime Set | 60p |
-| Scourge Prime Set | 60p |
+| Corinth Prime Set | 60p |
 | Ballistica Prime Set | 59p |
-| Baza Prime Set | 58p |
 | Saryn Prime Set | 57p |
 | Nami Skyla Prime Set | 56p |
-| Carmine Penta Set | 56p |
+| Trinity Prime Set | 55p |
 
 *... (see out.txt for full list of 235 items)*
 
