@@ -61,60 +61,60 @@ As of late 2025, the script analyses approximately 240+ tradeable item sets.
 
 ## 📈 Live Market Prices
 [//]: # (PRICE_START)
-**Last Updated:** 2026-02-14 05:06 UTC
+**Last Updated:** 2026-02-14 08:26 UTC
 
 | Item Set | Median Price |
 | :--- | :--- |
 | Lato Vandal Set | 260p |
-| Braton Vandal Set | 255p |
+| Braton Vandal Set | 150p |
 | Vauban Prime Set | 130p |
-| Dual Kamas Prime Set | 101p |
 | Arum Spinosa Set | 100p |
-| Sporothrix Set | 90p |
-| Hespar Set | 86p |
-| Akstiletto Prime Set | 85p |
-| Limbo Prime Set | 73p |
-| Wukong Prime Set | 71p |
-| Nyx Prime Set | 71p |
+| Sporothrix Set | 95p |
+| Dual Kamas Prime Set | 80p |
+| Akbolto Prime Set | 75p |
+| Xiphos Set | 75p |
+| Wukong Prime Set | 70p |
+| Aksomati Prime Set | 70p |
+| Limbo Prime Set | 70p |
 | Chroma Prime Set | 70p |
-| Carmine Penta Set | 70p |
-| Afuris Prime Set | 70p |
+| Tekko Prime Set | 67p |
 | Corinth Prime Set | 67p |
-| Nami Skyla Prime Set | 66p |
-| Akjagara Prime Set | 66p |
-| Nekros Prime Set | 66p |
 | Hydroid Prime Set | 65p |
 | Boar Prime Set | 65p |
 | Dethcube Prime Set | 65p |
 | Titania Prime Set | 65p |
-| Akbolto Prime Set | 65p |
-| Nova Prime Set | 65p |
-| Mirage Prime Set | 65p |
-| Nidus Prime Set | 65p |
-| Frost Prime Set | 61p |
-| Vectis Prime Set | 61p |
-| Rhino Prime Set | 61p |
-| Oberon Prime Set | 61p |
-| Spira Prime Set | 60p |
-| Banshee Prime Set | 60p |
-| Loki Prime Set | 60p |
-| Gara Prime Set | 60p |
-| Trinity Prime Set | 56p |
-| Carrier Prime Set | 56p |
-| Tekko Prime Set | 56p |
-| Octavia Prime Set | 56p |
-| Nautilus Set | 56p |
-| Mag Prime Set | 55p |
+| Nekros Prime Set | 65p |
+| Nami Skyla Prime Set | 63p |
+| Loki Prime Set | 62p |
+| Afuris Prime Set | 62p |
+| Frost Prime Set | 60p |
+| Rhino Prime Set | 60p |
+| Bo Prime Set | 60p |
+| Boltor Prime Set | 60p |
+| Carrier Prime Set | 60p |
+| Atlas Prime Set | 60p |
+| Nyx Prime Set | 60p |
+| Carmine Penta Set | 60p |
+| Nidus Prime Set | 60p |
+| Scourge Prime Set | 56p |
+| Latron Prime Set | 55p |
+| Oberon Prime Set | 55p |
 | Kogake Prime Set | 55p |
-| Aksomati Prime Set | 55p |
 | Wyrm Prime Set | 55p |
+| Kronen Prime Set | 55p |
+| Mirage Prime Set | 55p |
 | Khora Prime Set | 55p |
-| Atlas Prime Set | 53p |
+| Banshee Prime Set | 53p |
+| Saryn Prime Set | 52p |
 | Garuda Prime Set | 52p |
-| Valkyr Prime Set | 51p |
-| Kronen Prime Set | 51p |
-| Saryn Prime Set | 50p |
-| Latron Prime Set | 50p |
+| Akjagara Prime Set | 51p |
+| Gara Prime Set | 51p |
+| Akarius Prime Set | 51p |
+| Vectis Prime Set | 50p |
+| Mag Prime Set | 50p |
+| Ankyros Prime Set | 50p |
+| Trinity Prime Set | 50p |
+| Valkyr Prime Set | 50p |
 
 *... (see out.txt for full list of 235 items)*
 
