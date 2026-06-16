@@ -61,60 +61,60 @@ As of late 2025, the script analyses approximately 240+ tradeable item sets.
 
 ## 📈 Live Market Prices
 [//]: # (PRICE_START)
-**Last Updated:** 2026-06-16 03:32 UTC
+**Last Updated:** 2026-06-16 09:21 UTC
 
 | Item Set | Median Price |
 | :--- | :--- |
-| Xiphos Set | 105p |
-| Hespar Set | 104p |
 | Vectis Prime Set | 102p |
+| Hespar Set | 100p |
 | Vauban Prime Set | 95p |
-| Akbolto Prime Set | 85p |
-| Nekros Prime Set | 78p |
-| Hydroid Prime Set | 75p |
-| Kronen Prime Set | 75p |
-| Corinth Prime Set | 75p |
-| Scourge Prime Set | 75p |
-| Ballistica Prime Set | 74p |
-| Spira Prime Set | 72p |
-| Garuda Prime Set | 71p |
-| Frost Prime Set | 70p |
-| Carrier Prime Set | 70p |
-| Aksomati Prime Set | 70p |
-| Limbo Prime Set | 70p |
-| Chroma Prime Set | 70p |
+| Limbo Prime Set | 85p |
+| Nekros Prime Set | 82p |
+| Hydroid Prime Set | 80p |
+| Aksomati Prime Set | 80p |
+| Akbolto Prime Set | 80p |
+| Nami Skyla Prime Set | 80p |
+| Kronen Prime Set | 80p |
+| Ballistica Prime Set | 76p |
+| Carrier Prime Set | 75p |
+| Nidus Prime Set | 75p |
+| Afuris Prime Set | 75p |
+| Akstiletto Prime Set | 71p |
+| Titania Prime Set | 70p |
+| Spira Prime Set | 70p |
 | Banshee Prime Set | 70p |
 | Mirage Prime Set | 70p |
 | Octavia Prime Set | 70p |
-| Nidus Prime Set | 70p |
+| Carmine Penta Set | 70p |
+| Gara Prime Set | 70p |
 | Khora Prime Set | 70p |
-| Afuris Prime Set | 70p |
-| Wyrm Prime Set | 67p |
-| Loki Prime Set | 66p |
-| Gara Prime Set | 66p |
-| Saryn Prime Set | 65p |
-| Bo Prime Set | 65p |
-| Nami Skyla Prime Set | 65p |
-| Wukong Prime Set | 63p |
-| Valkyr Prime Set | 63p |
-| Oberon Prime Set | 62p |
-| Baza Prime Set | 61p |
-| Akstiletto Prime Set | 61p |
-| Ninkondi Prime Set | 60p |
+| Kogake Prime Set | 69p |
+| Frost Prime Set | 68p |
+| Corinth Prime Set | 68p |
+| Saryn Prime Set | 66p |
+| Bo Prime Set | 66p |
+| Boar Prime Set | 66p |
+| Chroma Prime Set | 66p |
+| Wyrm Prime Set | 65p |
+| Loki Prime Set | 65p |
+| Akjagara Prime Set | 65p |
+| Garuda Prime Set | 65p |
+| Scourge Prime Set | 62p |
+| Helios Prime Set | 61p |
+| Wukong Prime Set | 61p |
+| Phantasma Prime Set | 61p |
+| Dual Kamas Prime Set | 60p |
+| Destreza Prime Set | 60p |
+| Latron Prime Set | 60p |
 | Mag Prime Set | 60p |
-| Boar Prime Set | 60p |
-| Sybaris Prime Set | 60p |
-| Titania Prime Set | 60p |
+| Oberon Prime Set | 60p |
+| Glaive Prime Set | 60p |
+| Nova Prime Set | 60p |
 | Zephyr Prime Set | 60p |
 | Mesa Prime Set | 60p |
 | Nautilus Set | 60p |
-| Carmine Penta Set | 60p |
-| Phantasma Prime Set | 60p |
-| Glaive Prime Set | 56p |
-| Nezha Prime Set | 56p |
-| Baruuk Prime Set | 56p |
-| Wisp Prime Set | 56p |
-| Ember Prime Set | 55p |
+| Cinta Set | 60p |
+| Ash Prime Set | 57p |
 
 *... (see out.txt for full list of 238 items)*
 
